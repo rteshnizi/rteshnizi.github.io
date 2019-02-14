@@ -12,7 +12,7 @@ commit_website_files() {
 }
 
 upload_files() {
-	git remote add origin-prod https://${GH_TOKEN}@github.com/rteshnizi/rteshnizi-dev.git
+	git remote add origin-prod https://${GH_TOKEN}@github.com/rteshnizi/rteshnizi.github.io.git
 	git push --set-upstream origin-prod master
 }
 
