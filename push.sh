@@ -6,14 +6,14 @@ setup_git() {
 }
 
 commit_website_files() {
-	git checkout -b master
+	git checkout
 	git add ./build/* -f
 	git commit --message "Travis build: $TRAVIS_BUILD_NUMBER"
 }
 
 upload_files() {
-	git remote add origin https://${GH_TOKEN}@github.com/rteshnizi/rteshnizi-dev.git
-	git push --set-upstream origin master
+	git remote add origin-prod https://${GH_TOKEN}@github.com/rteshnizi/rteshnizi-dev.git
+	git push --set-upstream origin-prod master
 }
 
 echo "Starting push"
