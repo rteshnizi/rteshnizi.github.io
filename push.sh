@@ -16,6 +16,10 @@ upload_files() {
 	git push --set-upstream origin master
 }
 
+echo "Starting push"
 setup_git
+echo "git is setup"
 commit_website_files
+echo "Commited the crimes"
 upload_files
+echo "Pushed"
