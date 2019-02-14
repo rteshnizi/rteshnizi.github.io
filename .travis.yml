@@ -4,7 +4,7 @@ node_js:
 script:
   - npm build
 after_success:
-  - .travis/push.sh
+  - ./push.sh
 cache: npm
 git:
   depth: false
