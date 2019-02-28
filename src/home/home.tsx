@@ -11,9 +11,8 @@ export class Home extends React.Component {
 		return (
 			<div>
 				<header className="App-header">
-					<p>
-						Reza Teshnizi
-					</p>
+					<p> Reza Teshnizi </p>
+					<p> Content will be added here! </p>
 				</header>
 			</div>
 		);
