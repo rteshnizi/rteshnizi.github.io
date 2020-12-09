@@ -6,14 +6,14 @@
     "runtime-main.js": "/static/js/runtime-main.87f5a503.js",
     "runtime-main.js.map": "/static/js/runtime-main.87f5a503.js.map",
     "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
-    "static/js/2.8693d548.chunk.js": "/static/js/2.8693d548.chunk.js",
-    "static/js/2.8693d548.chunk.js.map": "/static/js/2.8693d548.chunk.js.map",
+    "static/js/2.2e3ff4bc.chunk.js": "/static/js/2.2e3ff4bc.chunk.js",
+    "static/js/2.2e3ff4bc.chunk.js.map": "/static/js/2.2e3ff4bc.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.2bf0e598aa44c700acaf9cecb345cfd1.js": "/precache-manifest.2bf0e598aa44c700acaf9cecb345cfd1.js",
+    "precache-manifest.7c27d8e67df6978e5a083cdcb6dc8989.js": "/precache-manifest.7c27d8e67df6978e5a083cdcb6dc8989.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
     "static/css/main.e0d8de6c.chunk.css.map": "/static/css/main.e0d8de6c.chunk.css.map",
-    "static/js/2.8693d548.chunk.js.LICENSE": "/static/js/2.8693d548.chunk.js.LICENSE",
+    "static/js/2.2e3ff4bc.chunk.js.LICENSE": "/static/js/2.2e3ff4bc.chunk.js.LICENSE",
     "static/media/bibtex.bib": "/static/media/bibtex.b50b66cd.bib",
     "static/media/profile-pic-2.jpeg": "/static/media/profile-pic-2.46d06a4c.jpeg",
     "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.87f5a503.js",
     "static/css/2.94155858.chunk.css",
-    "static/js/2.8693d548.chunk.js",
+    "static/js/2.2e3ff4bc.chunk.js",
     "static/css/main.e0d8de6c.chunk.css",
     "static/js/main.30d26554.chunk.js"
   ]
