@@ -1,33 +1,34 @@
 {
   "files": {
     "main.css": "/static/css/main.e0d8de6c.chunk.css",
-    "main.js": "/static/js/main.804f27af.chunk.js",
-    "main.js.map": "/static/js/main.804f27af.chunk.js.map",
+    "main.js": "/static/js/main.6a16a209.chunk.js",
+    "main.js.map": "/static/js/main.6a16a209.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87f5a503.js",
     "runtime-main.js.map": "/static/js/runtime-main.87f5a503.js.map",
     "static/css/2.94155858.chunk.css": "/static/css/2.94155858.chunk.css",
-    "static/js/2.b4bfb29e.chunk.js": "/static/js/2.b4bfb29e.chunk.js",
-    "static/js/2.b4bfb29e.chunk.js.map": "/static/js/2.b4bfb29e.chunk.js.map",
+    "static/js/2.99091ca9.chunk.js": "/static/js/2.99091ca9.chunk.js",
+    "static/js/2.99091ca9.chunk.js.map": "/static/js/2.99091ca9.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b34983ded7fb9345db89a0d8e05c8b25.js": "/precache-manifest.b34983ded7fb9345db89a0d8e05c8b25.js",
+    "precache-manifest.46634a0029b255d103fff18aea968544.js": "/precache-manifest.46634a0029b255d103fff18aea968544.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.94155858.chunk.css.map": "/static/css/2.94155858.chunk.css.map",
     "static/css/main.e0d8de6c.chunk.css.map": "/static/css/main.e0d8de6c.chunk.css.map",
-    "static/js/2.b4bfb29e.chunk.js.LICENSE": "/static/js/2.b4bfb29e.chunk.js.LICENSE",
-    "static/media/bibtex.bib": "/static/media/bibtex.b50b66cd.bib",
+    "static/js/2.99091ca9.chunk.js.LICENSE": "/static/js/2.99091ca9.chunk.js.LICENSE",
+    "static/media/bibtex.bib": "/static/media/bibtex.2af0cb98.bib",
     "static/media/profile-pic-2.jpeg": "/static/media/profile-pic-2.46d06a4c.jpeg",
     "static/media/index.css": "/static/media/roboto-latin-900italic.bc833e72.woff",
     "static/media/teshnizi2014-tethered-techreport.pdf": "/static/media/teshnizi2014-tethered-techreport.a42ae89a.pdf",
     "static/media/teshnizi2014-tethered.pdf": "/static/media/teshnizi2014-tethered.c05b71a7.pdf",
     "static/media/teshnizi2015-thesis.pdf": "/static/media/teshnizi2015-thesis.aec7f99a.pdf",
     "static/media/teshnizi2016-stiff-tether.pdf": "/static/media/teshnizi2016-stiff-tether.d8092801.pdf",
-    "static/media/teshnizi2016-tethered-pairs-workshop.pdf": "/static/media/teshnizi2016-tethered-pairs-workshop.8b7537a9.pdf"
+    "static/media/teshnizi2016-tethered-pairs-workshop.pdf": "/static/media/teshnizi2016-tethered-pairs-workshop.8b7537a9.pdf",
+    "static/media/teshnizi2021-tethered-pair.pdf": "/static/media/teshnizi2021-tethered-pair.87f2a4ac.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.87f5a503.js",
     "static/css/2.94155858.chunk.css",
-    "static/js/2.b4bfb29e.chunk.js",
+    "static/js/2.99091ca9.chunk.js",
     "static/css/main.e0d8de6c.chunk.css",
-    "static/js/main.804f27af.chunk.js"
+    "static/js/main.6a16a209.chunk.js"
   ]
 }
