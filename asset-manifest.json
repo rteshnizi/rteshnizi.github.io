@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.0936f30b.css",
-    "main.js": "/static/js/main.92bbc261.js",
+    "main.js": "/static/js/main.c693cad0.js",
     "static/media/teshnizi2015-thesis.pdf": "/static/media/teshnizi2015-thesis.7fd9d240a884eab403da.pdf",
     "static/media/teshnizi2021-tethered-pair.pdf": "/static/media/teshnizi2021-tethered-pair.9fdeed3b1086643d9927.pdf",
     "static/media/teshnizi2016-stiff-tether.pdf": "/static/media/teshnizi2016-stiff-tether.8d1731e02f7178485b04.pdf",
@@ -33,13 +33,13 @@
     "static/media/roboto-latin-400.woff2": "/static/media/roboto-latin-400.cb41c1e71debe927815c.woff2",
     "static/media/roboto-latin-900.woff2": "/static/media/roboto-latin-900.03074b16509774c0aa6d.woff2",
     "static/media/roboto-latin-100.woff2": "/static/media/roboto-latin-100.941530f23d86c39ba672.woff2",
-    "static/media/bibtex.bib": "/static/media/bibtex.871013ef6fe94d9958f9.bib",
+    "static/media/bibtex.bib": "/static/media/bibtex.ede0f0600b9808e9fc91.bib",
     "index.html": "/index.html",
     "main.0936f30b.css.map": "/static/css/main.0936f30b.css.map",
-    "main.92bbc261.js.map": "/static/js/main.92bbc261.js.map"
+    "main.c693cad0.js.map": "/static/js/main.c693cad0.js.map"
   },
   "entrypoints": [
     "static/css/main.0936f30b.css",
-    "static/js/main.92bbc261.js"
+    "static/js/main.c693cad0.js"
   ]
 }

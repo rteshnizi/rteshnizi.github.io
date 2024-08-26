@@ -1,3 +1,15 @@
+@phdthesis{teshnizi2025-dissertation,
+abstract = {This work studies how a robotic system can recognize patterns in movements of a target based on formal specifications given by an end-user. Specifically, we treat cases in which a network of autonomous robots equipped with sensors are deployed in a dynamic environment and collect information for an end-user to determine whether an unpredictable target exhibits certain---normal or anomalous---behavior. We give an algorithmic solution to processing information streamed over extended periods of time about an environment with dynamic elements and partial observability. In realizing a practical solution, this dissertation contributes by addressing this problem on three fronts by answering the questions of: how to write formal specifications for motion-based behavior, what is involved in recognizing behavior using these specifications, and how to design a modular perception process to integrate models for behavior recognition. We define behavior as equivalence classes of movement trajectories that follow certain patterns of visitations to regions of interest in an environment and apply automata theory to continuous structures---functions and sets---that represent movements. For a human user to formally specify the patterns, we define finite automata whose transition predicates are descriptions of the spatiotemporal qualities of interest for the visitations via a logical abstraction over the space-time sets that satisfy those qualities. Using automata-based specifications, we formulate the class of behavior filtering problems and justify the need for such specialized specifications by comparing their expressive power to a related formal logic. Given data at frequencies that realistic perception and tracking systems produce, we perform systematic reductions in the information space by leveraging computational geometry primitives to extract critical events, yielding information graphs which succinctly encode spatiotemporal topological layout of a given environment while being comprehensive. We offer algorithms---and their correctness proofs--- to solve behavior filtering problems using information graphs as the underlying model for behavior. The gap between the theory and practical artifacts in a robotic system is bridged via a modular architecture that integrates behavior inference into a system that interfaces with autonomous robots that monitor a given area and an ontological representation of knowledge as a logical source of truth for user-specified descriptions. Finally, to put everything together, we offer a prototypical software architecture and its implementation on ROS 2 framework as proof-of-concept. This dissertation approaches the problem of behavior specification and recognition by viewing it in terms of the levels of abstraction in the domains of analyses. This perspective allows us to break-down a high-level problem into sub-problems; ones that can be solved via separate metric, combinatorial, and logical analysis modules. This is achieved by reductions and indirections on data which delineate the conceptual boundaries in the overall problem, allowing each module to solve sub-problems at a level that is appropriate for the given task.},
+author = {Teshnizi, Reza H.},
+keywords = {Artificial Intelligence, Robotics, Autonomous Surveillance, Behavior Recognition, Activity Recognition, Behavior Specification, Combinatorial Motion Analysis, Automata Theory, Temporal Logic},
+month = {08},
+pages = {153},
+school = {Texas A{\&}M University},
+title = {{A Practical Method of Behavior Estimation in Dynamic Robotic Surveillance Settings}},
+type = {PhD Dissertation},
+url = {http://hdl.handle.net/1969.1/155694},
+year = {2024}
+}
 @article{teshnizi2021-tethered-pair,
 abstract = {Considering an environment containing polygonal obstacles, we address the problem of planning motions for a pair of planar robots connected to one another via a cable of limited length. Much like prior problems with a single robot connected via a cable to a fixed base, straight line-of-sight visibility plays an important role. The present paper shows how the reduced visibility graph provides a natural discretization and captures the essential topological considerations very effectively for the two robot case as well. Unlike the single robot case, however, the bounded cable length introduces considerations around coordination (or equivalently, when viewed from the point of view of a centralized planner, relative timing) that complicates the matter. Indeed, the paper has to introduce a rather more involved formalization than prior single-robot work in order to establish the core theoretical result-a theorem permitting the problem to be cast as one of finding paths rather than trajectories. Once affirmed, the planning problem reduces to a straightforward graph search with an elegant representation of the connecting cable, demanding only a few extra ancillary checks that ensure sufficiency of cable to guarantee feasibility of the solution. We describe our implementation of A* search, and report experimental results. Lastly, we prescribe an optimal execution for the solutions provided by the algorithm.},
 author = {Teshnizi, Reza H. and Shell, Dylan A.},
@@ -36,7 +48,7 @@ month = {08},
 pages = {85},
 school = {Texas A{\&}M University},
 title = {{Motion Planning for a Tethered Mobile Robot}},
-type = {Thesis},
+type = {Master's Thesis},
 url = {http://hdl.handle.net/1969.1/155694},
 year = {2015}
 }
@@ -55,6 +67,7 @@ institution = {Department of Computer Science, Texas A&M University},
 month = {02},
 number = {2014-2-3},
 title = {{Computing cell-based decompositions dynamically for planning motions of tethered robots}},
+type = {Technical Report},
 url = {https://engineering.tamu.edu/cse/research/areas/technical-reports.html#2014},
 year = {2014}
 }
